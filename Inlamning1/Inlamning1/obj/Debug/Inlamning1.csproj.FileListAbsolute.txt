@@ -1,0 +1,12 @@
+C:\Users\Spellabbet\Desktop\Drive\Tillämpade Datastrukturer och Algoritmer\Inlämningsuppgifter\Inlämning 1 Kod\Inlamning1\Inlamning1\bin\Debug\Inlamning1.exe.config
+C:\Users\Spellabbet\Desktop\Drive\Tillämpade Datastrukturer och Algoritmer\Inlämningsuppgifter\Inlämning 1 Kod\Inlamning1\Inlamning1\bin\Debug\Inlamning1.exe
+C:\Users\Spellabbet\Desktop\Drive\Tillämpade Datastrukturer och Algoritmer\Inlämningsuppgifter\Inlämning 1 Kod\Inlamning1\Inlamning1\bin\Debug\Inlamning1.pdb
+C:\Users\Spellabbet\Desktop\Drive\Tillämpade Datastrukturer och Algoritmer\Inlämningsuppgifter\Inlämning 1 Kod\Inlamning1\Inlamning1\obj\Debug\Inlamning1.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Desktop\Drive\Tillämpade Datastrukturer och Algoritmer\Inlämningsuppgifter\Inlämning 1 Kod\Inlamning1\Inlamning1\obj\Debug\Inlamning1.exe
+C:\Users\Spellabbet\Desktop\Drive\Tillämpade Datastrukturer och Algoritmer\Inlämningsuppgifter\Inlämning 1 Kod\Inlamning1\Inlamning1\obj\Debug\Inlamning1.pdb
+C:\Users\Berimbolo\Google Drive\Tillämpade Datastrukturer och Algoritmer\Inlämningsuppgifter\Inlämning 1 Kod\Inlamning1\Inlamning1\bin\Debug\Inlamning1.exe.config
+C:\Users\Berimbolo\Google Drive\Tillämpade Datastrukturer och Algoritmer\Inlämningsuppgifter\Inlämning 1 Kod\Inlamning1\Inlamning1\obj\Debug\Inlamning1.exe
+C:\Users\Berimbolo\Google Drive\Tillämpade Datastrukturer och Algoritmer\Inlämningsuppgifter\Inlämning 1 Kod\Inlamning1\Inlamning1\obj\Debug\Inlamning1.pdb
+C:\Users\Berimbolo\Google Drive\Tillämpade Datastrukturer och Algoritmer\Inlämningsuppgifter\Inlämning 1 Kod\Inlamning1\Inlamning1\obj\Debug\Inlamning1.csprojResolveAssemblyReference.cache
+C:\Users\Berimbolo\Google Drive\Tillämpade Datastrukturer och Algoritmer\Inlämningsuppgifter\Inlämning 1 Kod\Inlamning1\Inlamning1\bin\Debug\Inlamning1.exe
+C:\Users\Berimbolo\Google Drive\Tillämpade Datastrukturer och Algoritmer\Inlämningsuppgifter\Inlämning 1 Kod\Inlamning1\Inlamning1\bin\Debug\Inlamning1.pdb
